@@ -1,0 +1,5 @@
+# Power BI files are binary — prevent git from attempting line-ending conversion
+*.pbix binary
+
+# Keep generated CSV data out of language statistics
+data/*.csv linguist-generated

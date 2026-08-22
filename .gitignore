@@ -1,0 +1,11 @@
+# Raw run output — large and regenerable via scripts/collect-runs.ps1
+metrics/raw/
+*.json.bak
+
+# Power BI temp files
+*.pbix.tmp
+~$*
+
+# OS noise
+.DS_Store
+Thumbs.db

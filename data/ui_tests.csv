@@ -1,0 +1,61 @@
+run_id,module,suite,test_name,project,status,duration_ms,retry,is_retry,spec_ok
+2026-08-16T18-35-14,booking.test.js,TC002 — Public Room Booking Flow,Navigate to rooms and complete a successful booking,,passed,6272,0,0,1
+2026-08-16T18-35-14,login.test.js,TC001 — Full admin workflow,Home page → admin login → rooms → logout @smoke,,passed,8788,0,0,1
+2026-08-16T18-35-14,login.test.js,TC003 — Empty credentials,Submitting an empty username and password must not log in,,passed,2410,0,0,1
+2026-08-16T18-35-14,login.test.js,TC004 — Invalid credentials,Submitting a wrong username and password must not log in,,passed,2145,0,0,1
+2026-08-16T18-36-28,booking.test.js,TC002 — Public Room Booking Flow,Navigate to rooms and complete a successful booking,,failed,20663,0,0,0
+2026-08-16T18-36-28,login.test.js,TC001 — Full admin workflow,Home page → admin login → rooms → logout @smoke,,passed,5127,0,0,1
+2026-08-16T18-36-28,login.test.js,TC003 — Empty credentials,Submitting an empty username and password must not log in,,passed,2026,0,0,1
+2026-08-16T18-36-28,login.test.js,TC004 — Invalid credentials,Submitting a wrong username and password must not log in,,passed,2810,0,0,1
+2026-08-16T18-37-12,booking.test.js,TC002 — Public Room Booking Flow,Navigate to rooms and complete a successful booking,,failed,20102,0,0,0
+2026-08-16T18-37-12,login.test.js,TC001 — Full admin workflow,Home page → admin login → rooms → logout @smoke,,passed,5566,0,0,1
+2026-08-16T18-37-12,login.test.js,TC003 — Empty credentials,Submitting an empty username and password must not log in,,passed,1948,0,0,1
+2026-08-16T18-37-12,login.test.js,TC004 — Invalid credentials,Submitting a wrong username and password must not log in,,passed,2105,0,0,1
+2026-08-16T18-37-54,booking.test.js,TC002 — Public Room Booking Flow,Navigate to rooms and complete a successful booking,,failed,20130,0,0,0
+2026-08-16T18-37-54,login.test.js,TC001 — Full admin workflow,Home page → admin login → rooms → logout @smoke,,passed,14431,0,0,1
+2026-08-16T18-37-54,login.test.js,TC003 — Empty credentials,Submitting an empty username and password must not log in,,passed,2208,0,0,1
+2026-08-16T18-37-54,login.test.js,TC004 — Invalid credentials,Submitting a wrong username and password must not log in,,passed,2570,0,0,1
+2026-08-16T18-38-46,booking.test.js,TC002 — Public Room Booking Flow,Navigate to rooms and complete a successful booking,,failed,20348,0,0,0
+2026-08-16T18-38-46,login.test.js,TC001 — Full admin workflow,Home page → admin login → rooms → logout @smoke,,passed,5246,0,0,1
+2026-08-16T18-38-46,login.test.js,TC003 — Empty credentials,Submitting an empty username and password must not log in,,passed,1970,0,0,1
+2026-08-16T18-38-46,login.test.js,TC004 — Invalid credentials,Submitting a wrong username and password must not log in,,passed,2650,0,0,1
+2026-08-16T18-39-28,booking.test.js,TC002 — Public Room Booking Flow,Navigate to rooms and complete a successful booking,,failed,22008,0,0,0
+2026-08-16T18-39-28,login.test.js,TC001 — Full admin workflow,Home page → admin login → rooms → logout @smoke,,passed,25118,0,0,1
+2026-08-16T18-39-28,login.test.js,TC003 — Empty credentials,Submitting an empty username and password must not log in,,passed,2241,0,0,1
+2026-08-16T18-39-28,login.test.js,TC004 — Invalid credentials,Submitting a wrong username and password must not log in,,passed,2443,0,0,1
+2026-08-16T18-40-35,booking.test.js,TC002 — Public Room Booking Flow,Navigate to rooms and complete a successful booking,,failed,21303,0,0,0
+2026-08-16T18-40-35,login.test.js,TC001 — Full admin workflow,Home page → admin login → rooms → logout @smoke,,passed,4462,0,0,1
+2026-08-16T18-40-35,login.test.js,TC003 — Empty credentials,Submitting an empty username and password must not log in,,passed,2583,0,0,1
+2026-08-16T18-40-35,login.test.js,TC004 — Invalid credentials,Submitting a wrong username and password must not log in,,passed,2217,0,0,1
+2026-08-16T18-41-19,booking.test.js,TC002 — Public Room Booking Flow,Navigate to rooms and complete a successful booking,,failed,22023,0,0,0
+2026-08-16T18-41-19,login.test.js,TC001 — Full admin workflow,Home page → admin login → rooms → logout @smoke,,passed,4730,0,0,1
+2026-08-16T18-41-19,login.test.js,TC003 — Empty credentials,Submitting an empty username and password must not log in,,passed,3489,0,0,1
+2026-08-16T18-41-19,login.test.js,TC004 — Invalid credentials,Submitting a wrong username and password must not log in,,passed,2665,0,0,1
+2026-08-16T18-42-05,booking.test.js,TC002 — Public Room Booking Flow,Navigate to rooms and complete a successful booking,,failed,21906,0,0,0
+2026-08-16T18-42-05,login.test.js,TC001 — Full admin workflow,Home page → admin login → rooms → logout @smoke,,passed,5985,0,0,1
+2026-08-16T18-42-05,login.test.js,TC003 — Empty credentials,Submitting an empty username and password must not log in,,passed,2429,0,0,1
+2026-08-16T18-42-05,login.test.js,TC004 — Invalid credentials,Submitting a wrong username and password must not log in,,passed,2309,0,0,1
+2026-08-16T18-42-50,booking.test.js,TC002 — Public Room Booking Flow,Navigate to rooms and complete a successful booking,,failed,22068,0,0,0
+2026-08-16T18-42-50,login.test.js,TC001 — Full admin workflow,Home page → admin login → rooms → logout @smoke,,passed,4603,0,0,1
+2026-08-16T18-42-50,login.test.js,TC003 — Empty credentials,Submitting an empty username and password must not log in,,passed,2233,0,0,1
+2026-08-16T18-42-50,login.test.js,TC004 — Invalid credentials,Submitting a wrong username and password must not log in,,passed,2203,0,0,1
+2026-08-16T18-43-35,booking.test.js,TC002 — Public Room Booking Flow,Navigate to rooms and complete a successful booking,,failed,21311,0,0,0
+2026-08-16T18-43-35,login.test.js,TC001 — Full admin workflow,Home page → admin login → rooms → logout @smoke,,passed,5023,0,0,1
+2026-08-16T18-43-35,login.test.js,TC003 — Empty credentials,Submitting an empty username and password must not log in,,passed,2499,0,0,1
+2026-08-16T18-43-35,login.test.js,TC004 — Invalid credentials,Submitting a wrong username and password must not log in,,passed,2296,0,0,1
+2026-08-16T18-44-20,booking.test.js,TC002 — Public Room Booking Flow,Navigate to rooms and complete a successful booking,,passed,8023,0,0,1
+2026-08-16T18-44-20,login.test.js,TC001 — Full admin workflow,Home page → admin login → rooms → logout @smoke,,passed,5176,0,0,1
+2026-08-16T18-44-20,login.test.js,TC003 — Empty credentials,Submitting an empty username and password must not log in,,passed,2492,0,0,1
+2026-08-16T18-44-20,login.test.js,TC004 — Invalid credentials,Submitting a wrong username and password must not log in,,passed,2148,0,0,1
+2026-08-16T18-44-50,booking.test.js,TC002 — Public Room Booking Flow,Navigate to rooms and complete a successful booking,,failed,21996,0,0,0
+2026-08-16T18-44-50,login.test.js,TC001 — Full admin workflow,Home page → admin login → rooms → logout @smoke,,passed,4508,0,0,1
+2026-08-16T18-44-50,login.test.js,TC003 — Empty credentials,Submitting an empty username and password must not log in,,passed,2514,0,0,1
+2026-08-16T18-44-50,login.test.js,TC004 — Invalid credentials,Submitting a wrong username and password must not log in,,passed,2116,0,0,1
+2026-08-16T18-45-35,booking.test.js,TC002 — Public Room Booking Flow,Navigate to rooms and complete a successful booking,,failed,28306,0,0,0
+2026-08-16T18-45-35,login.test.js,TC001 — Full admin workflow,Home page → admin login → rooms → logout @smoke,,passed,4772,0,0,1
+2026-08-16T18-45-35,login.test.js,TC003 — Empty credentials,Submitting an empty username and password must not log in,,passed,6505,0,0,1
+2026-08-16T18-45-35,login.test.js,TC004 — Invalid credentials,Submitting a wrong username and password must not log in,,passed,2137,0,0,1
+2026-08-16T18-46-30,booking.test.js,TC002 — Public Room Booking Flow,Navigate to rooms and complete a successful booking,,failed,20517,0,0,0
+2026-08-16T18-46-30,login.test.js,TC001 — Full admin workflow,Home page → admin login → rooms → logout @smoke,,passed,4225,0,0,1
+2026-08-16T18-46-30,login.test.js,TC003 — Empty credentials,Submitting an empty username and password must not log in,,passed,3548,0,0,1
+2026-08-16T18-46-30,login.test.js,TC004 — Invalid credentials,Submitting a wrong username and password must not log in,,passed,1700,0,0,1

@@ -8,7 +8,7 @@ application or the environment. This project instruments 15 consecutive runs of 
 Playwright and Postman/Newman suite, models the output as a star schema, and answers those
 questions.
 
-**The analysis found a defect the test reports did not surface** — see [FINDINGS.md](FINDINGS.md).
+**The analysis found an environment issue the test reports did not surface** — see [FINDINGS.md](FINDINGS.md).
 
 | | |
 |---|---|

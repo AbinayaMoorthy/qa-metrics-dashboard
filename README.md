@@ -173,8 +173,9 @@ shared sandboxes. Two consequences shaped the analysis:
 
 ## Author
 
-**Abinaya Moorthy** — QA Engineer
-Test automation · API testing · CI/CD · QA analytics
+**Abinaya M** — QA Automation Engineer  
+Test automation · API testing · CI/CD · QA analytics  
+[LinkedIn](https://www.linkedin.com/in/abinaya-m-8a668b202) · abinaya.work02@gmail.com
 
 ---
 
